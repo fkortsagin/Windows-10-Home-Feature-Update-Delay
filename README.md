@@ -10,7 +10,7 @@ Windows 10 Home Feature Update Delay
 4.Find the following registry entry
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UpdatePolicy\PolicyState
 
-# Different registry entry For Windows 10 Older Builds 1809,1903,1909
+# Different Registry Entry For Windows 10 Older Builds 1809,1903,1909
 * Find the following registry entry
 * Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings
 
